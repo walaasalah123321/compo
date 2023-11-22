@@ -14,7 +14,7 @@ then add this to your project:
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
-use itrax\dbWrapper;
+use itraxwa\dbWrapper;
 ```
 
 ## usage

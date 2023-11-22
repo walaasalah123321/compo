@@ -1,5 +1,5 @@
 <?php
-namespace  Itrax;
+namespace  Itraxwa;
 class dbWrapper
 {
     public $conn;

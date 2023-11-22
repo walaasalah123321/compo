@@ -1,11 +1,11 @@
 {
-    "name": "itrax/db",
+    "name": "itraxwa/db",
     "description": "php wrapper  for mysql db",
     "type": "libarary",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Itrax\\Db\\": "src/"
+            "Itraxwa\\Db\\": "src/"
         }
     },
     "authors": [
