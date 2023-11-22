@@ -1,4 +1,4 @@
-# 🍗 dbhelper 🍗
+# 🍗 dbhelp 🍗
 
 itraxDB is a small php wrapper for mysql/postgres/sqlite databases.
 
